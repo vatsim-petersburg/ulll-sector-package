@@ -160,6 +160,10 @@ Window_APP_Scale=20.0
 
 Window_Clock=1,2560,45
 
+Window_QNH=1,2050,45
+Window_QNH_DisplayUnits=3
+Window_QNH_ShowQFE=0
+
 [ULLI]
 Airport_Elevation=79
 Airport_Radius=1.5
