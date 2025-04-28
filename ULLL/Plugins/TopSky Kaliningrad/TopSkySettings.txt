@@ -7,6 +7,8 @@ Setup_COOPANS=1
 //System_GUI_Scale_Tracks=1.5
 //System_GUI_Scale_Windows=1.4
 
+Setup_ScreenLat=UMKK
+
 Airspace_ASSR_Type=2
 Airspace_ASSR_AutoAssign_Type=0
 Airspace_ModeS_Code_VFR=2000
@@ -199,16 +201,9 @@ SAP_Buffer_Vert_U=1500
 SAP_Buffer_Vert_L_IFR=500
 SAP_Buffer_Vert_L_VFR=500
 
-//Shortcut_RadarMenu_Combo=0x00
-//Shortcut_Map_Xfr_Key=1,0x47 ; G
-//Shortcut_Map_Target=1,ULLI\ULLI STANDS
-//Shortcut_Map_Xfr_Key=2,0x41 ; A
-//Shortcut_Map_Target=2,ULLL\ULLL_CTR_HIGHAIRWAYS
-//Shortcut_Map_Xfr_Key=3,0x46; F
-//Shortcut_Map_Target=3,MISC/FIXES
-//0x47 ; G
-//Shortcut_Map_Xfr_Key=4,0x48 ; H
-//Shortcut_Map_Xfr_Key=5,0x42 ; B
+Shortcut_RadarMenu_Combo=0x00
+Shortcut_Map_Xfr_Key=1,0x47 ; G
+Shortcut_Map_Target=1,Airport Layouts\UMKK_Airports_Text
 
 //Shortcut_Quick_Look_Combo=0x42
 
