@@ -44,20 +44,18 @@ Color_APP_Background=0,0,0
 Color_SelectedLabelFill_Gnd=50,50,50
 Color_SelectedLabelBorder_Gnd=0,0,0
 
-Color_WTitleBar=25,25,112
+Color_WTitleBar=112,112,112
 Color_WTitleText=255,255,255
 Color_WForeground=0,0,0
 Color_WBackground2=200,200,200
 Color_WBackground3=200,200,200
 Color_Arrival=240,240,0
-Color_Departure=20,255,102
-Color_Departure=20,255,0
 Color_Caution=192,192,192
 Color_Departure=30,255,245
 Color_RawVideoHistory=111,111,60
 
 Color_SelectedLabelFill_App=163,161,164
-Color_Selected=7,163,7
+Color_Selected=30,255,24  
 
 RawVideo=0
 
